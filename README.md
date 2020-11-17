@@ -10,3 +10,4 @@ For this week's assignment, I focused on tailoring the various webpages of myhea
 #### Wireframes:
 ![Wireframes](https://user-images.githubusercontent.com/72778213/99456463-517e1400-28de-11eb-8b5d-40849386bcd6.jpg)
 #### Reflection:
+While the prototype I used was based off other basic websites in order to make the interface readible and predicatable to the user, there was still a bit of confusion on whether certain things (like the favorite icon) was clickable or not, since it there is nothing besides the icon there with no system feedback to encourage you to click on it. In addition, the favorites folder could be made more clear, since the user was very confused on how the website would save these articles for later if you don't have to register for an account. 
