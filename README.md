@@ -5,7 +5,7 @@ For this week's assignment, I focused on tailoring the various webpages of myhea
 #### Tasks: 
 1. Fill out the immunization/screening questionnaire and look at your results. Mark whatever immunizations you have completed, and email the ones that you still have to do to yourself.
 2. Find information about Nutrition during Pregnancy. Among the many articles, favorite one to have in your archives for later.
-3. 
+3. Without looking over the main menu, find an article related to diet suggestions pertaining to diebetes. 
 
 #### Wireframes:
 ![Wireframes](https://user-images.githubusercontent.com/72778213/99456463-517e1400-28de-11eb-8b5d-40849386bcd6.jpg)
