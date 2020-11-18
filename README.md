@@ -10,8 +10,15 @@ For this week's assignment, I focused on tailoring the various webpages of myhea
 #### Wireframes:
 ![Wireframes](https://user-images.githubusercontent.com/72778213/99456463-517e1400-28de-11eb-8b5d-40849386bcd6.jpg)
 
+#### Wireflow
+![Task 1](https://user-images.githubusercontent.com/72778213/99465452-55666200-28ef-11eb-944c-a68cc466c97e.jpg)
+![Task 2](https://user-images.githubusercontent.com/72778213/99465486-67480500-28ef-11eb-9966-21907b0a46f2.jpg)
+![Task 3](https://user-images.githubusercontent.com/72778213/99465496-6d3de600-28ef-11eb-98ee-85f3e372be5c.jpg)
+
 #### User Testing: 
 The user was able to successfully complete all the tasks, but was still a little hesitant/thrown off with some of the commands. She later said that this was because it was weird to guess the website format without being able to click on something as confirmation, which is very understandable. I found myself getting a little bit impatient because since I had designed the prototype myself, I knew the navigation through and through and struggled to not help her. 
+![IMG_6381](https://user-images.githubusercontent.com/72778213/99465531-7cbd2f00-28ef-11eb-87b5-1949682ab6f1.jpg)
+
 
 #### Reflection:
 While the prototype I used was based off other basic websites in order to make the interface readible and predicatable to the user, there was still a bit of confusion on whether certain things (like the favorite icon) was clickable or not, since it there is nothing besides the icon there with no system feedback to encourage you to click on it. In addition, the favorites folder could be made more clear, since the user was very confused on how the website would save these articles for later if you don't have to register for an account. 
